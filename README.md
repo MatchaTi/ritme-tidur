@@ -153,7 +153,7 @@ Chloe pulang kerja jam 18:00 dan ingin tidur cepat agar segar. Ia atur aplikasi 
 
 ---
 
-### 🪟 9**. Wireframe**
+### 🪟 9. Wireframe
 
 ![image.png](assets/image-1.png)
 
