@@ -165,4 +165,4 @@ Chloe pulang kerja jam 18:00 dan ingin tidur cepat agar segar. Ia atur aplikasi 
 
 ---
 
-Written using notions by Adi Muhammad Syifai
+Written using Notion by Adi Muhammad Syifai
