@@ -147,7 +147,7 @@ Chloe pulang kerja jam 18:00 dan ingin tidur cepat agar segar. Ia atur aplikasi 
 
 ---
 
-### ➡️ 8**. Flowchart**
+### ➡️ 8. Flowchart
 
 ![image.png](assets/image.png)
 
